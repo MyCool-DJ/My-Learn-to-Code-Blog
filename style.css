@@ -1,0 +1,14 @@
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: "Oswald"
+	}
+
+	body {
+		font-family: "Open Sans"
+	}
+  /*this is above is copy-pasted from W3
+  https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_fashion_blog&stacked=h*/
